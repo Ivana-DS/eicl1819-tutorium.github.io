@@ -12,4 +12,4 @@
 | Datum | Folien
 |------------|:----------------------------------------------:|
 | 23.10.2018 | [Einführung](tutorium_1.pdf){:target="_blank"}
-| 23.10.2018 | [Morphologie](tutorium_1.pdf){:target="_blank"}
+| 30.10.2018 | [Morphologie](tutorium_1.pdf){:target="_blank"}
