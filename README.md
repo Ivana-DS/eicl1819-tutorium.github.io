@@ -6,7 +6,7 @@
  - Zeit/Vorlesung/Übung: Fr 10:15-11:45 (BU101)
  - Zeit/Tutorium: <span style="color:red">**Di 12:15-13:45 (U127)**</span>
 
- - Dozenten: Hinrich Schütze, Alena Moiseeva
+ - Dozenten: Prof. Dr. Hinrich Schütze, Alena Moiseeva
  - Tutorin: Ivana Daskalovska
 
 | Datum | Folien
