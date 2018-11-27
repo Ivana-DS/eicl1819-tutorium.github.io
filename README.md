@@ -14,3 +14,4 @@
 | 23.10.2018 | [Einführung](tutorium_1.pdf){:target="_blank"}
 | 30.10.2018 | [Morphologie](tutorium_2.pdf){:target="_blank"}
 | 06.11.2018 | [Syntax und Wortarten](tutorium_3.pdf){:target="_blank"}
+| 13.11.2018 | [Phonetik und Phonologie](tutorium_4.pdf){:target="_blank"}
