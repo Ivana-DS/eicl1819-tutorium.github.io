@@ -15,3 +15,4 @@
 | 30.10.2018 | [Morphologie](tutorium_2.pdf){:target="_blank"}
 | 06.11.2018 | [Syntax und Wortarten](tutorium_3.pdf){:target="_blank"}
 | 13.11.2018 | [Phonetik und Phonologie](tutorium_4.pdf){:target="_blank"}
+| 20.11.2018 | [Konstituenz](tutorium_5.pdf){:target="_blank"}
