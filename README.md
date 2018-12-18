@@ -16,3 +16,4 @@
 | 06.11.2018 | [Syntax und Wortarten](tutorium_3.pdf){:target="_blank"}
 | 13.11.2018 | [Phonetik und Phonologie](tutorium_4.pdf){:target="_blank"}
 | 20.11.2018 | [Konstituenz](tutorium_5.pdf){:target="_blank"}
+| 27.11.2018 | [Feldermodell, Semantik](tutorium_6.pdf){:target="_blank"}
