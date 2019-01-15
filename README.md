@@ -6,7 +6,7 @@
  - Zeit/Vorlesung/Übung: Fr 10:15-11:45 (BU101)
  - Zeit/Tutorium: <span style="color:red">**Di 12:15-13:45 (U127)**</span>
  
- -  <span style="color:red">**Extra Tutorium:FR 25.01.19  15.00-20.00 (Raum: C 127)**</span>
+ -  <span style="color:red">**Extra Tutorium: FR 25.01.19  15.00-20.00 (Raum: C 127)**</span>
  -  <span style="color:red">**Bitte Fragen überlegen und mir diese und konkrete Aufgaben per Email schicken, damit ich mich im Voraus vorbereiten kann.**</span>
 
  - Dozenten: Prof. Dr. Hinrich Schütze, Alena Moiseeva
