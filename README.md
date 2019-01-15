@@ -21,4 +21,4 @@
 | 20.11.2018 | [Konstituenz](tutorium_5.pdf){:target="_blank"}
 | 27.11.2018 | [Feldermodell, Semantik](tutorium_6.pdf){:target="_blank"}
 | 04.12.2018 | [Logik](tutorium_7.pdf){:target="_blank"}
-| q5.01.2019 | [Logik](tutorium_9.pdf){:target="_blank"}
+| 15.01.2019 | [Textklassifikation, Naive Bayes](tutorium_9.pdf){:target="_blank"}
